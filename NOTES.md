@@ -31,7 +31,7 @@
 取得URL形式：`https://images.pexels.com/photos/<ID>/pexels-photo-<ID>.jpeg?auto=compress&cs=tinysrgb&w=1200`。全3枚200KB以内。全写真に差し替えを明記したキャプションを重ねる。人物の顔、外観、看板、店内全景なし。Googleマップの写真・Instagram画像・併設サロンの写真は不使用。
 
 ## 地図
-- 埋め込みは店名検索：`https://www.google.com/maps?q=Groovy-neo%20白馬村神城&output=embed`。
+- 最終埋め込みは住所検索：`https://www.google.com/maps?q=長野県北安曇郡白馬村神城22742-1&output=embed`。店名検索では評価・件数の情報カードが表示されたため、評価を掲載しない要件を優先して住所検索に切り替え。
 - 外部リンクは依頼のplace_id `ChIJm7t716XR918R2qlbRZQkILI` を使用。
 - ピンと住所の目視確認結果は最終検証後に追記。
 
@@ -43,3 +43,4 @@
 - 画面上の確認欄の全件は同梱の CHECKLIST.md に記録。
 
 - 外部Googleマップのplace_idリンクで、Groovy-neoのピン、神城22742-1、電話0261-85-0990の一致を目視確認。
+
